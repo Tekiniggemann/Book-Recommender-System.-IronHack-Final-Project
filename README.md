@@ -1,6 +1,8 @@
 # Book Recommender System. IronHack-Final-Project
 Building a Book Recommender System by using clustering and neighbours method.
+
 ![books](https://user-images.githubusercontent.com/90692934/146677597-37ed7f80-a590-45e3-ab61-f4e1d86db92a.jpg)
+
 This project is a part of Ironhack Data Analytics Full Time Bootcamp course.
 # 1. Project Description
 Today's World benefits the Machine Learning methods to make the life easier and less complicated. One of the most popular and being great demand is recommendation systems. Major businesses create their own recommendation systems such as movies, songs etc.

@@ -1,7 +1,7 @@
 # Book Recommender System. IronHack-Final-Project
 Building a Book Recommender System by using clustering and neighbours method.
 
-![books](https://user-images.githubusercontent.com/90692934/146677597-37ed7f80-a590-45e3-ab61-f4e1d86db92a.jpg)
+![Books_New-e1611252343470](https://user-images.githubusercontent.com/90692934/146678540-b0dd1e55-556c-474f-b8f6-1c1ed18465b2.jpg)
 
 This project is a part of Ironhack Data Analytics Full Time Bootcamp course.
 # 1. Project Description
